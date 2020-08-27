@@ -1,0 +1,36 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BirdFlyComponent.cs">
+    <Files>
+      <File FileName="Assets/Scripts/BirdFlyComponent.cs" Line="24" Column="68" />
+      <File FileName="Assets/Scripts/BackgroundMusic.cs" />
+      <File FileName="Assets/Scripts/PipeMovement.cs" />
+      <File FileName="Assets/Scripts/Score.cs" />
+      <File FileName="Assets/Scripts/PipeSpawner.cs" />
+      <File FileName="Assets/Scripts/GameManager.cs" />
+      <File FileName="Assets/Scripts/AddScore.cs" />
+      <File FileName="Assets/Scripts/HighScore.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hannah Game" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Assets" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="BirdFlyComponent.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d640c516-7af4-41b2-82f0-531d2bcb6a7f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
